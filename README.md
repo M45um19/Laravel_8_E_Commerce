@@ -8,7 +8,7 @@ For enjoying the project in your computer please follow the following steps:
 2.Unzip the project to the xampp>htdocs folder<br />
 3.Open xampp and start apache and mysql<br />
 4.Go to http://localhost/phpmyadmin/ and create a new databse name laravel8commercedb<br />
-5.Open your command prompt, chanfe the directory to the project folder and run the following command<br />
+5.Open your command prompt, change the directory to the project folder and run the following command<br />
     php artisan migrate<br />
     php artisan db:seed<br />
     php artisan serve<br />
